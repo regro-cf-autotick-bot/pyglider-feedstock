@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/pyglider-{{ version }}.tar.gz
-  sha256: 65cec779506939b9498426acc5c3538778942c307cf816a2e95bb00de9bbaa5a
+  sha256: 625a6548cb28842d161837c8a18a9a4fb2abc4e73ce47a9819b473b9edab99b6
 
 build:
   noarch: python
